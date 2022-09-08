@@ -1,0 +1,5 @@
+//Get a Character
+#include <stdio.h>
+main()
+{
+char c1 = getc(stdin);
