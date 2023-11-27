@@ -1,1 +1,1 @@
-Solving all the programming projects in the text
+Solving all the programming projects in the textbook
